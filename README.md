@@ -1,0 +1,2 @@
+# HijackHackPython
+EDUCATIONAL PURPOSES ONLY
